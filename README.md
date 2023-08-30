@@ -1,4 +1,4 @@
-### Oi, meu nome é Raquel 👋
+### Oi, meu nome é Raquel Oliveira Ferreira! 👋
 
 <!--
 **rraquelof/rraquelof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
