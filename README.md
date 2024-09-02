@@ -1,6 +1,6 @@
 ### Oi, meu nome é Raquel Oliveira Ferreira! 👋
 
-Graduando em Análise e Desenvolvimento de Sistemas pelo IFPB
+Graduando em Análise e Desenvolvimento de Sistemas pelo IFPB(2/6)
 <!--
 **rraquelof/rraquelof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
