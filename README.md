@@ -1,6 +1,6 @@
 ### Oi, meu nome é Raquel Oliveira Ferreira! 👋
 
-Graduando em Análise e Desenvolvimento de Sistemas pelo IFPB(2/6)
+Graduando em Análise e Desenvolvimento de Sistemas pelo IFPB(3/6)
 
 <div aligh="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rraquelof&show_icons=true&count_private=true&hide_border=true&title_color00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Raquel github stats">
